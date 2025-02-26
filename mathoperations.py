@@ -1,6 +1,6 @@
 # Author: Liya Zhou
 # Date Modified: February 26, 2025
-# Description: 
+# Description: Discovering different math functions
 
 #Letting Python know I want to use functions from their math library
 import math
