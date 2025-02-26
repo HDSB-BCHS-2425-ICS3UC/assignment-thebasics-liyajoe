@@ -1,5 +1,5 @@
 #Author: Liya Zhou
-#Date Modified: February 24, 2025
+#Date Modified: February 25, 2025
 #Description: Different types of data types
 
 #These variables store examples of the data types
