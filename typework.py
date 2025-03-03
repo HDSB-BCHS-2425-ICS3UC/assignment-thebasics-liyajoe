@@ -1,13 +1,13 @@
 #Author: Liya Zhou
-#Date Modified: February 28, 2025
+#Date Modified: March 3, 2025
 #Description: Different types of data types
 
 #These variables store examples of the data types
-integer = 9
-float = 2.5
-string = "cookie"
-boolean = True
-char = 'g'
+integer = int(9)
+float = float(2.5)
+string = str("cookie")
+boolean = bool(True)
+char = str('g')
 
 #These variables have the definitions of the different data types
 integer_meaning = "a positive or negative whole number"
